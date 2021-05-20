@@ -1,0 +1,18 @@
+.nav {
+    grid-column: 1/2;
+    grid-row: 2/3;
+    background-color: rgb(151, 151, 235);  
+}
+
+ul li {
+    list-style-type: none;
+} 
+
+.item {
+    text-decoration: none;
+    color: white;
+}
+
+/* .active {
+    color: rgb(219, 20, 219);
+} */
