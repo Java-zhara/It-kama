@@ -13,6 +13,6 @@ ul li {
     color: white;
 }
 
-/* .active {
-    color: rgb(219, 20, 219);
-} */
+.activeLink {
+    color:blue;
+}
