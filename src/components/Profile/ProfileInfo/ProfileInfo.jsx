@@ -21,6 +21,7 @@ const ProfileInfo = (props) => {
               ? props.profile.photos.large
               : userPhoto
           }
+          alt="avatar"
         />
         <ProfileStatus status={"HELLO"} />
       </div>
