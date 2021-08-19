@@ -39,6 +39,7 @@ const Users = (props) => {
                   src={
                     user.photos.small != null ? user.photos.small : userPhoto
                   }
+                  alt="userPhoto"
                   className={style.userPhoto}
                 />
               </NavLink>

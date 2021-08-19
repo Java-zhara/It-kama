@@ -1,7 +1,7 @@
 import React from "react";
 import Preloader from "../../common/Preloader/Preloader";
 import userPhoto from "../../../assets/images/avatar.jpg";
-import ProfileStatus from "./ProofileStatus";
+import ProfileStatus from "./ProfileStatus";
 
 import style from "./ProfileInfo.module.css";
 
@@ -23,7 +23,10 @@ const ProfileInfo = (props) => {
           }
           alt="avatar"
         />
-        <ProfileStatus status={"HELLO"} />
+        <ProfileStatus
+          status={props.status}
+          updateStatus={props.updateStatus}
+        />
       </div>
     </div>
   );
