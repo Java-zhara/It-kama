@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/It-kama/static/css/main.545ce604.chunk.css",
+    "main.js": "/It-kama/static/js/main.683e78aa.chunk.js",
+    "main.js.map": "/It-kama/static/js/main.683e78aa.chunk.js.map",
+    "runtime-main.js": "/It-kama/static/js/runtime-main.97b59372.js",
+    "runtime-main.js.map": "/It-kama/static/js/runtime-main.97b59372.js.map",
+    "static/js/2.c6c6ab38.chunk.js": "/It-kama/static/js/2.c6c6ab38.chunk.js",
+    "static/js/2.c6c6ab38.chunk.js.map": "/It-kama/static/js/2.c6c6ab38.chunk.js.map",
+    "static/css/3.9f9a144b.chunk.css": "/It-kama/static/css/3.9f9a144b.chunk.css",
+    "static/js/3.905e53cf.chunk.js": "/It-kama/static/js/3.905e53cf.chunk.js",
+    "static/js/3.905e53cf.chunk.js.map": "/It-kama/static/js/3.905e53cf.chunk.js.map",
+    "static/css/4.fc992ff0.chunk.css": "/It-kama/static/css/4.fc992ff0.chunk.css",
+    "static/js/4.de2d520b.chunk.js": "/It-kama/static/js/4.de2d520b.chunk.js",
+    "static/js/4.de2d520b.chunk.js.map": "/It-kama/static/js/4.de2d520b.chunk.js.map",
+    "static/js/5.3e9d6fb3.chunk.js": "/It-kama/static/js/5.3e9d6fb3.chunk.js",
+    "static/js/5.3e9d6fb3.chunk.js.map": "/It-kama/static/js/5.3e9d6fb3.chunk.js.map",
+    "index.html": "/It-kama/index.html",
+    "static/css/3.9f9a144b.chunk.css.map": "/It-kama/static/css/3.9f9a144b.chunk.css.map",
+    "static/css/4.fc992ff0.chunk.css.map": "/It-kama/static/css/4.fc992ff0.chunk.css.map",
+    "static/css/main.545ce604.chunk.css.map": "/It-kama/static/css/main.545ce604.chunk.css.map",
+    "static/js/2.c6c6ab38.chunk.js.LICENSE.txt": "/It-kama/static/js/2.c6c6ab38.chunk.js.LICENSE.txt",
+    "static/media/hourglass.55d157a0.gif": "/It-kama/static/media/hourglass.55d157a0.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97b59372.js",
+    "static/js/2.c6c6ab38.chunk.js",
+    "static/css/main.545ce604.chunk.css",
+    "static/js/main.683e78aa.chunk.js"
+  ]
+}
