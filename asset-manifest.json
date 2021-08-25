@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/It-kama/static/css/main.545ce604.chunk.css",
-    "main.js": "/It-kama/static/js/main.683e78aa.chunk.js",
-    "main.js.map": "/It-kama/static/js/main.683e78aa.chunk.js.map",
+    "main.js": "/It-kama/static/js/main.a0a251ca.chunk.js",
+    "main.js.map": "/It-kama/static/js/main.a0a251ca.chunk.js.map",
     "runtime-main.js": "/It-kama/static/js/runtime-main.97b59372.js",
     "runtime-main.js.map": "/It-kama/static/js/runtime-main.97b59372.js.map",
     "static/js/2.c6c6ab38.chunk.js": "/It-kama/static/js/2.c6c6ab38.chunk.js",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.97b59372.js",
     "static/js/2.c6c6ab38.chunk.js",
     "static/css/main.545ce604.chunk.css",
-    "static/js/main.683e78aa.chunk.js"
+    "static/js/main.a0a251ca.chunk.js"
   ]
 }
